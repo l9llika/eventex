@@ -1,0 +1,11 @@
+.nav__link {
+    margin-right: 5px;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+}
+.nav__link:hover {
+    color: #EE0034;
+}

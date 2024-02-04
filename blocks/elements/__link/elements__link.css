@@ -1,0 +1,6 @@
+.elements__link {
+    text-decoration: none;
+}
+.elements__link:hover {
+    opacity: 0.6;
+}
